@@ -12,5 +12,19 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Tests
+
+This project includes backend tests for the FastAPI application.
+
+### Run tests
+
+Install dependencies and run:
+
+```bash
+python -m pytest -q
+```
+
+The tests are located in the [tests](tests) directory and use the AAA pattern (Arrange, Act, Assert).
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
